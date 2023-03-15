@@ -1,0 +1,19 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sitema de tienda de ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "automation",
+    "testing"
+  ],
+  "author": "Viviana",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.0"
+  }
+}
