@@ -1,0 +1,16 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2414
+END=2672
+title=Window cy.window() - get the global window object
+[CHAPTER]
+TIMEBASE=1/1000
+START=2831
+END=2932
+title=Window cy.document() - get the document object
+[CHAPTER]
+TIMEBASE=1/1000
+START=2945
+END=3035
+title=Window cy.title() - get the title
