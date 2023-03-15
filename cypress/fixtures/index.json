@@ -1,0 +1,4 @@
+{
+    "searchBox": ".form-control",
+    "searchButton": ".input-group-btn > .btn"
+}
